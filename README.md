@@ -1,2 +1,2 @@
-Based on code from Justin Tan.
+Based on code from Justin Tan (justin.tanwk@gmail.com)
 
