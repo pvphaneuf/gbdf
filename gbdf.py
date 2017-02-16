@@ -14,7 +14,6 @@ def geneFrame(genbank_file):
     Output: Dataframe containing all genes, start/stop locations and strand (plus/minus), 
     as well as gene function, product and amino acid sequence
     """
-    from Bio import SeqIO
     
     infile = SeqIO.read(genbank_file,'gb')
     genes = []
